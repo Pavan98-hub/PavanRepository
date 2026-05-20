@@ -1,0 +1,6 @@
+{
+  "Name": "GitHub_UiPath_Integration",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
